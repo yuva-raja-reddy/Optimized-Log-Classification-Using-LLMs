@@ -40,7 +40,7 @@ This project combines three primary classification strategies:
 
 1. **Clone the Repository**
    ```bash
-   git clone <your_repository_url>
+   git clone https://github.com/yuva-raja-reddy/Optimized-Log-Classification-Using-LLMs.git
    ```
 
 2. **Install Dependencies**
@@ -100,7 +100,3 @@ Feel free to modify and extend the classification logic in the following modules
 These modules are designed to be flexible, allowing you to tailor the classification approaches to your specific needs.
 
 ---
-
-## Contributions
-Contributions, feedback, and feature requests are welcome.
-Please open an issue or submit a pull request in your GitHub repository.
